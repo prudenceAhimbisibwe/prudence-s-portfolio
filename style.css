@@ -1,0 +1,106 @@
+ul{
+    list-style: none;
+    margin-left: 50%;
+    display: flex;
+}
+li {
+    margin: 10px;
+    list-style: none;
+    font-size: 25px;
+    margin-top: 10%;
+}
+li a{
+    text-decoration: none;
+}
+.me{
+    margin-left: 40%;
+    margin-top: 15%;
+}
+.me h2{
+    font-size: 30px;
+    margin-left: 45%;
+    opacity: 30%;
+}
+.me h1{
+
+    font-size: 30px;
+    margin-left: 45%;
+}
+.me h3{
+    font-size: 20px;
+    margin-left: 45%;
+    opacity: 40%;
+}
+body{
+    background-color: rgb(137, 192, 244); 
+}
+.context{
+    background-color: blanchedalmond;
+    margin: 8%;
+}
+.img{
+    margin-left: 10%;
+    background-color: rgb(200, 200, 203); 
+    border-radius: 50%;
+    height: 450px;
+    width: 450px;
+    margin-top: -30%;
+}
+.img img{
+    margin-top: -22%;
+    margin-left: 15%;
+ 
+}
+.about{
+    text-align: center;
+    font-size: 30px;
+    opacity: 80%;
+}
+.about1 p{
+    font-size: 20px;
+    opacity: 80%;
+    padding: 10%;
+    margin: 10%;
+    margin-top: -10%;
+    text-align: justify;
+
+}
+.skills{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -17%;
+    opacity: 80%;
+}
+.cources{
+    display: flex;
+}
+.html {
+    margin: 1%;
+}
+.css {
+    margin: 1%;
+}
+.js {
+    margin: 1%;
+}
+.kotlin{
+    margin: 1%;
+}
+.python{
+    margin: 1%;
+}
+.c{
+    margin:1%;
+}
+.cources p{
+    opacity: 80%;
+    font-size: 15px;
+}
+.project{
+    text-align: center;
+    font-size: 25px;
+
+}
+    
+
+
